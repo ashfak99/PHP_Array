@@ -10,4 +10,13 @@
 <h5>Update Arrays</h5>
 <h5>Add Arrays Items</h5>
 <h5>Remove Arrays Items</h5>
-<h5>Sort Arrays</h5>
+<h5>Sort Arrays</h5><br><br>
+
+<h3>Array Items:</h3>
+Arrays items can be of any data type.<br>
+The most common are string and numbers, but array items can also be object,functions or even arrays.<br><br>
+<code>$arr=array("Ashfak",15,["Apple","Banana"],myFunction);</code><br>
+
+<h3>Array Function</h3>
+The real strength of PHP array are the built in array function, like the <bold>count()</bold> function for counting array items.<br><br>
+<code>$arrs=array("Ashfak","Asrar","Alam");<br>echo count($arrs);</code>
